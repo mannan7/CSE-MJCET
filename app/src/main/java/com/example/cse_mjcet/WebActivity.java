@@ -35,8 +35,10 @@ public class WebActivity extends AppCompatActivity {
                 if(Progress==100)
                     setTitle(R.string.app_name);
 
+
             }
         });
+
         webView.getSettings().setLoadWithOverviewMode(true);
         webView.getSettings().setUseWideViewPort(true);
         webView.getSettings().setJavaScriptEnabled(true);
@@ -56,6 +58,7 @@ public class WebActivity extends AppCompatActivity {
         }
 
     }
+
 
     @Override
     public boolean onKeyDown(int keyCode, KeyEvent event) {

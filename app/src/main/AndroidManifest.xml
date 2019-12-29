@@ -16,8 +16,10 @@
         <activity android:name=".adres" />
         <activity android:name=".reso" />
         <activity android:name=".faculty" />
-        <activity android:name=".resources" />
+        <activity android:name=".youtube"/>
         <activity android:name=".MainActivity">
+
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
