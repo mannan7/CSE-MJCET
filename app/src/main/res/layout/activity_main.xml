@@ -182,7 +182,7 @@
                     android:layout_height="wrap_content"
                     android:gravity="center"
                     android:padding="5dp"
-                    android:text="resources avalaible"
+                    android:text="External Resources Available"
                     android:textColor="@android:color/darker_gray" />
 
             </LinearLayout>
