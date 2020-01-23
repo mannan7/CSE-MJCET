@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".WebActivity"></activity>
-        <activity android:name=".welcome" />
+        <activity android:name=".splashScreen" />
 
         <activity android:name=".about" />
         <activity android:name=".adres" />
