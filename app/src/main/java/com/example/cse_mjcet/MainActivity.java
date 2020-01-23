@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         res.setOnClickListener(this);
         ares.setOnClickListener(this);
         about.setOnClickListener(this);
+        getSupportActionBar().hide();
 
     }
 

@@ -18,7 +18,6 @@ public class youtube extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_youtube);
-        /*getActionBar().setTitle("Student Resources");*/
 
 
         ArrayList<String> arrayList = new ArrayList<>();

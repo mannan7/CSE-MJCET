@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">CSE-MJCET</string>
     <string name="percentage" />
+    <string name="about_cse">Established in the year 1986, the CSE Department of MJCET offers BE and ME Courses.The CSE Department has labs with the lastest Software and hardware which helps the students accquire the latest trends in the field.</string>
+    <string name="about_cse_heading">About CSE DEPT</string>
+    <string name="mission">To contribute competent computer science professionals to the global talent pool to meet the constantly evolving societal needs.</string>
+    <string name="about_the_developers">About the developers:</string>
+    <string name="mohd_ehtesham_uddin_qureshi_2021_passout_batch_mohammed_abdul_mannan_2021_passout_batch_p_sai_amrutha_2021_passout_batch">MOHD EHTESHAM UDDIN QURESHI - 2021 passout batch. \n \n MOHAMMED ABDUL MANNAN - 2021 passout batch. \n \n P SAI AMRUTHA - 2021 passout batch. </string>
 </resources>
