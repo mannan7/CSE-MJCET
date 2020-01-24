@@ -7,13 +7,14 @@
     android:background="#fcfcfc"
     android:gravity="center"
     tools:context=".MainActivity"
+
     >
 
     <com.google.android.material.appbar.AppBarLayout
         android:id="@+id/appbar"
         android:layout_width="match_parent"
         android:layout_height="300dp"
-        android:background="@mipmap/ic_whatever"
+        android:background="@drawable/ss1"
         >
 
         <com.google.android.material.appbar.CollapsingToolbarLayout
@@ -24,8 +25,6 @@
             app:expandedTitleMarginEnd="64dp"
             app:expandedTitleMarginStart="48dp"
             app:layout_scrollFlags="exitUntilCollapsed|scroll"
-
-
             >
 
             <androidx.appcompat.widget.Toolbar
@@ -35,6 +34,7 @@
                 app:layout_collapseMode="pin"
                 app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
                 app:title="CSE"
+                app:titleTextColor="#420E4E"
                 />
 
         </com.google.android.material.appbar.CollapsingToolbarLayout>
@@ -52,7 +52,8 @@
             android:background="#fcfcfc"
             android:gravity="center"
             android:orientation="vertical"
-            android:padding="10dp">
+            android:padding="10dp"
+            >
 
             <LinearLayout
                 android:layout_width="match_parent"

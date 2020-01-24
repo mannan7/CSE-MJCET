@@ -10,14 +10,14 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".WebActivity"></activity>
-        <activity android:name=".splashScreen" />
+        <activity android:name=".MainActivity" />
 
         <activity android:name=".about" />
         <activity android:name=".adres" />
         <activity android:name=".reso" />
         <activity android:name=".faculty" />
         <activity android:name=".youtube"/>
-        <activity android:name=".MainActivity">
+        <activity android:name=".splashScreen">
 
 
             <intent-filter>
